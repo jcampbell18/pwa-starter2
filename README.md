@@ -1,1 +1,1 @@
-# pwa-starter2
+# pwa-starter
