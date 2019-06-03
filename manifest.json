@@ -1,0 +1,33 @@
+{
+    // Title and Description
+    "name" : "EWU Campus Tour",
+    "short_name" : "EWU Tour",
+    "description": "Catchy slogan for the EWU campus",
+
+    // start from curent directory...root?
+    "scope": ".",
+
+    // Name of Repository
+    "start_url": "/pwa-starter2",
+
+    // Remove the URL bar. Make it feel like a native app
+    "display": "standalone",
+
+    //Theme Options
+    "orientation": "portrait", 
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+            "src": "img/favicons/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "img/favicons/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ] 
+
+}
